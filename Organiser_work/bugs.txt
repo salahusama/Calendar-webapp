@@ -1,0 +1,10 @@
+prev button - hover
+width of window
+add button at edge
+css folders do not open
+line in header cells
+name - open in _self does not work
+name - after cookie saved, page error
+
+
+open directories from web server

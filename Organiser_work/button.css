@@ -1,0 +1,44 @@
+button {
+	vertical-align: center;
+	border-radius: 5px;
+	background-color: #990000;
+	border: none;
+	color: white;
+	padding: 10px;
+	width: 100px;
+}
+button:hover {
+	box-shadow: 0 0 10px blue;
+}
+
+button span {
+	position: relative;
+	transition: 0.5s;
+}
+#prev span:after {
+	content: '<<';
+	position: absolute;
+	opacity: 0;
+	transition: 0.5s;
+}
+#prev:hover span {
+	padding-left: 25px;
+}
+#prev:hover span:after {
+	opacity: 1;
+	left: 0;
+}
+
+#next span:after {
+	content: '>>';
+	position: absolute;
+	opacity: 0;
+	transition: 0.5s;
+}
+#next:hover span {
+	padding-right: 25px;
+}
+#next:hover span:after {
+	opacity: 1;
+	right: 0;
+}
