@@ -1,12 +1,13 @@
-# Calendar-webapp
-This is still a work in progress.
+# Calendar-WebApp
+(Could be a bit buggy)
 
-This website will be a web application that:
+This website has the following functionality:
 -saves user name
 -saves all tasks user enters on specific dates
 -work as a calendar
 
-Used languages:
+Used technologies:
 -HTML
 -CSS
 -JavaScript
+-XML
