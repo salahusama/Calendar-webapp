@@ -1,5 +1,4 @@
 # Calendar-WebApp
-(Could be a bit buggy)
 
 This website has the following functionality:
 -saves user name
